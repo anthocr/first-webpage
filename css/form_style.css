@@ -3,6 +3,10 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#bread-options {
-    display: flexbox;
+#bread-menu {
+    display: flex;
+}
+
+#bread-option {
+    padding-left: 10px;
 }
