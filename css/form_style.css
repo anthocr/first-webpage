@@ -1,7 +1,7 @@
 body {
+    margin: 25px 25px 25px;
     background-color: bisque;
     font-family: "papyrus";
-    margin: 25px 25px 25px;
 }
 
 .header {
@@ -19,5 +19,5 @@ body {
 footer {
     color: grey;
     position: absolute;
-    bottom: 25px;
+    bottom: 0px;
 }
