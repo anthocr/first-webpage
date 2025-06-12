@@ -7,3 +7,11 @@ body {
 .header {
     color: coral;
 }
+
+nav {
+    display: flex;
+}
+
+.nav-element {
+    padding-right: 10px;
+}
