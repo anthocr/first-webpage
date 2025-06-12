@@ -14,9 +14,11 @@
 
         <main>
             <form action="/submit" method="POST">
+                <!--Sandwich name entry-->
                 <label for="name">Sandwich Name: </label>
                 <input type="text" id="name" name="name"> <br>
-
+                
+                <!--Bread Menu-->
                 <label for="bread">Bread: </label> <br>
                 <div id ="bread-menu">
                     <div id="bread-option">
@@ -36,7 +38,8 @@
                         <input type="radio" name="Rhye"> <br>
                     </div>
                 </div>
-            
+                
+                <!--Protein Dropdown-->
                 <label>Choose Your Protein: </label>
                 <select id="protein" name="protein">
                     <option value="ham">Ham</option>
@@ -44,10 +47,12 @@
                     <option value="turkey">Turkey</option>
                     <option value="pastrami">Pastrami</option>
                 </select> <br>
-        
+                
+                <!--Submit button-->
                 <input type="submit" value="Submit">
             </form> <br>
 
+            <!--Back home link-->
             <footer style="color: grey;">
                 <a href="index.html" style="color: grey;">back to home</a>
             </footer>
