@@ -23,7 +23,7 @@ footer {
 }
 
 article {
-    background-image: url("images/meerkat-aside.jpg");
+    background-image: url(images/meerkat-aside.jpg);
     width: 500px;
     height: 500px;
     color:red;
