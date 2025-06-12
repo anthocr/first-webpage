@@ -1,9 +1,16 @@
 body {
     background-color: bisque;
     font-family: "papyrus";
+    margin: 25px 25px 25px 25px;
 }
 
 .header {
     color: coral;
+}
+
+footer {
+    color: grey;
+    position: absolute;
+    bottom: 0px;
 }
 
