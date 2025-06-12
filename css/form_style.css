@@ -3,6 +3,10 @@ body {
     font-family: "papyrus";
 }
 
+.header {
+    color: coral;
+}
+
 #bread-menu {
     display: flex;
 }
