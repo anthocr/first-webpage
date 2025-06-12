@@ -11,6 +11,12 @@ header {
     color: coral;
 }
 
+#picture {
+    width: 30%; 
+    height: auto; 
+    border: 2px solid coral;
+}
+
 #bread-menu {
     display: flex;
 }
