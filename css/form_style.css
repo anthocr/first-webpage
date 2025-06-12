@@ -1,6 +1,7 @@
 body {
     background-color: bisque;
     font-family: "papyrus";
+    margin: 25px 25px 25px;
 }
 
 .header {
@@ -13,4 +14,10 @@ body {
 
 .bread-option {
     padding-right: 10px;
+}
+
+footer {
+    color: grey;
+    position: absolute;
+    bottom: 25px;
 }
