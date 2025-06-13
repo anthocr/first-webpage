@@ -30,3 +30,16 @@ footer {
     position: absolute;
     bottom: 0px;
 }
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: purple;
+}
+
+.grid-item {
+    color: white;
+    background-color: pink ;
+    text-align: center;
+    padding: 25px;
+}
