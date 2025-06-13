@@ -8,6 +8,14 @@ body {
     color: coral;
 }
 
+#gallery {
+    padding: 10px;
+}
+
+.gallery-image {
+    height:auto;
+}
+
 footer {
     color: grey;
     position: absolute;
