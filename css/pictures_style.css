@@ -8,12 +8,10 @@ body {
     color: coral;
 }
 
-#gallery {
-    padding: 10px;
-}
-
 .gallery-image {
     height:auto;
+    padding: 10px;
+    float: left;
 }
 
 footer {
